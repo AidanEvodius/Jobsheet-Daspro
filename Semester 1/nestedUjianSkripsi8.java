@@ -18,15 +18,15 @@ public class nestedUjianSkripsi8 {
         if (bebasKompen.equalsIgnoreCase("Yes")) {
             if (bimbinganP1 >= 8) {
                 if (bimbinganP2 >= 4) {
-                    pesan = "Anda dapat mendaftar ujian skripsi.";
+                    pesan = "Anda dapat mendaftar ujian skripsi";
                 } else {
-                    pesan = "Gagal: Bimbingan dengan Pembimbing 2 kurang.";
+                    pesan = "Gagal: Bimbingan dengan Pembimbing 2 kurang";
                 }
             } else {
-                pesan = "Gagal: Bimbingan dengan Pembimbing 1 kurang.";
+                pesan = "Gagal: Bimbingan dengan Pembimbing 1 kurang";
             }
         } else {
-            pesan = "Gagal: Anda masih memiliki kompen.";
+            pesan = "Gagal: Anda masih memiliki kompen";
         }
 
         System.out.println(pesan);
