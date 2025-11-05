@@ -1,0 +1,182 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "KopiSenja8",
+            "request": "launch",
+            "mainClass": "KopiSenja8",
+            "projectName": "Semester 1_edf49b68"
+        },
+        {
+            "type": "java",
+            "name": "PersegiAngka8",
+            "request": "launch",
+            "mainClass": "PersegiAngka8",
+            "projectName": "Semester 1_edf49b68"
+        },
+        {
+            "type": "java",
+            "name": "Square8",
+            "request": "launch",
+            "mainClass": "Square8",
+            "projectName": "Semester 1_edf49b68"
+        },
+        {
+            "type": "java",
+            "name": "Star8",
+            "request": "launch",
+            "mainClass": "Star8",
+            "projectName": "Semester 1_edf49b68"
+        },
+        {
+            "type": "java",
+            "name": "Triangle8",
+            "request": "launch",
+            "mainClass": "Triangle8",
+            "projectName": "Semester 1_edf49b68"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "BiayaBensin",
+            "request": "launch",
+            "mainClass": "BiayaBensin",
+            "projectName": "Semester 1_edf49b68"
+        },
+        {
+            "type": "java",
+            "name": "CaseMethod1_Aidan",
+            "request": "launch",
+            "mainClass": "CaseMethod1_Aidan",
+            "projectName": "Semester 1_edf49b68"
+        },
+        {
+            "type": "java",
+            "name": "CicilanMotor",
+            "request": "launch",
+            "mainClass": "CicilanMotor",
+            "projectName": "Semester 1_edf49b68"
+        },
+        {
+            "type": "java",
+            "name": "DiskonBelanja",
+            "request": "launch",
+            "mainClass": "DiskonBelanja",
+            "projectName": "Semester 1_edf49b68"
+        },
+        {
+            "type": "java",
+            "name": "GajiBersih",
+            "request": "launch",
+            "mainClass": "GajiBersih",
+            "projectName": "Semester 1_edf49b68"
+        },
+        {
+            "type": "java",
+            "name": "GajiKaryawan",
+            "request": "launch",
+            "mainClass": "GajiKaryawan",
+            "projectName": "Semester 1_edf49b68"
+        },
+        {
+            "type": "java",
+            "name": "KafeDoWhile8",
+            "request": "launch",
+            "mainClass": "KafeDoWhile8",
+            "projectName": "Semester 1_edf49b68"
+        },
+        {
+            "type": "java",
+            "name": "LuasPersegiPanjang",
+            "request": "launch",
+            "mainClass": "LuasPersegiPanjang",
+            "projectName": "Semester 1_edf49b68"
+        },
+        {
+            "type": "java",
+            "name": "LuasTanah",
+            "request": "launch",
+            "mainClass": "LuasTanah",
+            "projectName": "Semester 1_edf49b68"
+        },
+        {
+            "type": "java",
+            "name": "PolaBintang",
+            "request": "launch",
+            "mainClass": "PolaBintang",
+            "projectName": "Semester 1_edf49b68"
+        },
+        {
+            "type": "java",
+            "name": "SiakadFor8",
+            "request": "launch",
+            "mainClass": "SiakadFor8",
+            "projectName": "Semester 1_edf49b68"
+        },
+        {
+            "type": "java",
+            "name": "SiakadWhile8",
+            "request": "launch",
+            "mainClass": "SiakadWhile8",
+            "projectName": "Semester 1_edf49b68"
+        },
+        {
+            "type": "java",
+            "name": "SistemPerpustakaanWifi",
+            "request": "launch",
+            "mainClass": "SistemPerpustakaanWifi",
+            "projectName": "Semester 1_edf49b68"
+        },
+        {
+            "type": "java",
+            "name": "Tugas1Bioskop",
+            "request": "launch",
+            "mainClass": "Tugas1Bioskop",
+            "projectName": "Semester 1_edf49b68"
+        },
+        {
+            "type": "java",
+            "name": "UTS1_Aidan",
+            "request": "launch",
+            "mainClass": "UTS1_Aidan",
+            "projectName": "Semester 1_edf49b68"
+        },
+        {
+            "type": "java",
+            "name": "cekganjilgenap",
+            "request": "launch",
+            "mainClass": "cekganjilgenap",
+            "projectName": "Semester 1_edf49b68"
+        },
+        {
+            "type": "java",
+            "name": "ifcetakKRS8",
+            "request": "launch",
+            "mainClass": "ifcetakKRS8",
+            "projectName": "Semester 1_edf49b68"
+        },
+        {
+            "type": "java",
+            "name": "nestedUjianSkripsi8",
+            "request": "launch",
+            "mainClass": "nestedUjianSkripsi8",
+            "projectName": "Semester 1_edf49b68"
+        },
+        {
+            "type": "java",
+            "name": "switchcetakKRS8",
+            "request": "launch",
+            "mainClass": "switchcetakKRS8",
+            "projectName": "Semester 1_edf49b68"
+        }
+    ]
+}
