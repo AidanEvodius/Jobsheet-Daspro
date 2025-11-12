@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SearchNilai08",
+            "request": "launch",
+            "mainClass": "SearchNilai08",
+            "projectName": "Semester 1_edf49b68"
+        },
+        {
+            "type": "java",
+            "name": "ArrayRataNilai08",
+            "request": "launch",
+            "mainClass": "ArrayRataNilai08",
+            "projectName": "Semester 1_edf49b68"
+        },
+        {
+            "type": "java",
+            "name": "ArrayNilai08",
+            "request": "launch",
+            "mainClass": "ArrayNilai08",
+            "projectName": "Semester 1_edf49b68"
+        },
+        {
+            "type": "java",
+            "name": "ArrayBilangan08",
+            "request": "launch",
+            "mainClass": "ArrayBilangan08",
+            "projectName": "Semester 1_edf49b68"
+        },
+        {
+            "type": "java",
             "name": "KopiSenja8",
             "request": "launch",
             "mainClass": "KopiSenja8",
