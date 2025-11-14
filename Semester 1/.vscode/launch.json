@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Numbers08",
+            "request": "launch",
+            "mainClass": "Numbers08",
+            "projectName": "Semester 1_edf49b68"
+        },
+        {
+            "type": "java",
+            "name": "Bioskop08",
+            "request": "launch",
+            "mainClass": "Bioskop08",
+            "projectName": "Semester 1_edf49b68"
+        },
+        {
+            "type": "java",
+            "name": "Survey",
+            "request": "launch",
+            "mainClass": "Survey",
+            "projectName": "Semester 1_edf49b68"
+        },
+        {
+            "type": "java",
             "name": "SearchNilai08",
             "request": "launch",
             "mainClass": "SearchNilai08",
