@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BioskopWith08",
+            "request": "launch",
+            "mainClass": "BioskopWith08",
+            "projectName": "Semester 1_edf49b68"
+        },
+        {
+            "type": "java",
             "name": "Numbers08",
             "request": "launch",
             "mainClass": "Numbers08",
